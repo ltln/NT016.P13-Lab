@@ -16,5 +16,10 @@ namespace Lab01
         {
             InitializeComponent();
         }
+
+        private void convert_btn_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -191,6 +191,7 @@
             MaximizeBox = false;
             Name = "Lab01_Bai01";
             Padding = new Padding(32);
+            ShowInTaskbar = false;
             Text = "BaiTH1";
             ResumeLayout(false);
             PerformLayout();

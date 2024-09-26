@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ugues\\Desktop\\Lab LTM\\Projects\\Lab01\\Lab01.csproj": {}
+    "C:\\Users\\ugues\\Desktop\\Lab LTM\\Projects\\GitHub\\NT016.P13-Lab\\Lab01\\Lab01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ugues\\Desktop\\Lab LTM\\Projects\\Lab01\\Lab01.csproj": {
+    "C:\\Users\\ugues\\Desktop\\Lab LTM\\Projects\\GitHub\\NT016.P13-Lab\\Lab01\\Lab01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ugues\\Desktop\\Lab LTM\\Projects\\Lab01\\Lab01.csproj",
+        "projectUniqueName": "C:\\Users\\ugues\\Desktop\\Lab LTM\\Projects\\GitHub\\NT016.P13-Lab\\Lab01\\Lab01.csproj",
         "projectName": "Lab01",
-        "projectPath": "C:\\Users\\ugues\\Desktop\\Lab LTM\\Projects\\Lab01\\Lab01.csproj",
+        "projectPath": "C:\\Users\\ugues\\Desktop\\Lab LTM\\Projects\\GitHub\\NT016.P13-Lab\\Lab01\\Lab01.csproj",
         "packagesPath": "C:\\Users\\ugues\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ugues\\Desktop\\Lab LTM\\Projects\\Lab01\\obj\\",
+        "outputPath": "C:\\Users\\ugues\\Desktop\\Lab LTM\\Projects\\GitHub\\NT016.P13-Lab\\Lab01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ugues\\AppData\\Roaming\\NuGet\\NuGet.Config",
