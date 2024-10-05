@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{7ABF4FD7-B784-41C0-90CA-D6CD28CA3BD2}|Lab01.csproj|solutionrelative:lab01-bai04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7ABF4FD7-B784-41C0-90CA-D6CD28CA3BD2}|Lab01.csproj|c:\\users\\ugues\\desktop\\lab ltm\\projects\\github\\nt016.p13-lab\\lab01\\lab01-bai04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7ABF4FD7-B784-41C0-90CA-D6CD28CA3BD2}|Lab01.csproj|C:\\Users\\ugues\\Desktop\\Lab LTM\\Projects\\GitHub\\NT016.P13-Lab\\Lab01\\lab01-bai04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7ABF4FD7-B784-41C0-90CA-D6CD28CA3BD2}|Lab01.csproj|solutionrelative:lab01-bai04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -15,7 +15,7 @@
       "RelativeMoniker": "D:0:0:{7ABF4FD7-B784-41C0-90CA-D6CD28CA3BD2}|Lab01.csproj|solutionrelative:lab01-bai04.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7ABF4FD7-B784-41C0-90CA-D6CD28CA3BD2}|Lab01.csproj|c:\\users\\ugues\\desktop\\lab ltm\\projects\\github\\nt016.p13-lab\\lab01\\lab01-bai03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7ABF4FD7-B784-41C0-90CA-D6CD28CA3BD2}|Lab01.csproj|C:\\Users\\ugues\\Desktop\\Lab LTM\\Projects\\GitHub\\NT016.P13-Lab\\Lab01\\lab01-bai03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7ABF4FD7-B784-41C0-90CA-D6CD28CA3BD2}|Lab01.csproj|solutionrelative:lab01-bai03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -23,7 +23,7 @@
       "RelativeMoniker": "D:0:0:{7ABF4FD7-B784-41C0-90CA-D6CD28CA3BD2}|Lab01.csproj|solutionrelative:lab01-bai03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7ABF4FD7-B784-41C0-90CA-D6CD28CA3BD2}|Lab01.csproj|c:\\users\\ugues\\desktop\\lab ltm\\projects\\github\\nt016.p13-lab\\lab01\\lab01-bai01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7ABF4FD7-B784-41C0-90CA-D6CD28CA3BD2}|Lab01.csproj|C:\\Users\\ugues\\Desktop\\Lab LTM\\Projects\\GitHub\\NT016.P13-Lab\\Lab01\\lab01-bai01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7ABF4FD7-B784-41C0-90CA-D6CD28CA3BD2}|Lab01.csproj|solutionrelative:lab01-bai01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -58,8 +58,7 @@
               "RelativeToolTip": "Lab01-Bai04.Designer.cs",
               "ViewState": "AgIAAH8AAAAAAAAAAAAowLwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T08:40:41.342Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-26T08:40:41.342Z"
             },
             {
               "$type": "Document",
@@ -69,7 +68,7 @@
               "RelativeDocumentMoniker": "Lab01-Bai04.cs",
               "ToolTip": "C:\\Users\\ugues\\Desktop\\Lab LTM\\Projects\\GitHub\\NT016.P13-Lab\\Lab01\\Lab01-Bai04.cs",
               "RelativeToolTip": "Lab01-Bai04.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAIA6wCcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-26T08:38:26.064Z",
               "EditorCaption": ""
@@ -83,8 +82,7 @@
               "ToolTip": "C:\\Users\\ugues\\Desktop\\Lab LTM\\Projects\\GitHub\\NT016.P13-Lab\\Lab01\\Lab01-Bai01.cs [Design]",
               "RelativeToolTip": "Lab01-Bai01.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T08:27:54.728Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-09-26T08:27:54.728Z"
             },
             {
               "$type": "Document",
@@ -108,8 +106,7 @@
               "ToolTip": "C:\\Users\\ugues\\Desktop\\Lab LTM\\Projects\\GitHub\\NT016.P13-Lab\\Lab01\\Lab01-Bai03.cs [Design]",
               "RelativeToolTip": "Lab01-Bai03.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T08:07:00.265Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-09-26T08:07:00.265Z"
             }
           ]
         }
