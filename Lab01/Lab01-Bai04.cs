@@ -24,11 +24,12 @@ namespace Lab01
                 Calculate cal = new Calculate();
                 int A = int.Parse(valueA_textBox.Text);
                 int B = int.Parse(valueB_textBox.Text);
+
                 resultA_label.Text = "!A = " + cal.Factorial(A).ToString();
                 resultB_label.Text = "!B = " + cal.Factorial(B).ToString();
-                resultS1_label.Text = "S1 = " + cal.Sum(A).ToString();
-                resultS2_label.Text = "S2 = " + cal.Sum(B).ToString();
-                resultS3_label.Text = "S3 = " + cal.ExponentSum(A, B).ToString();
+                resultS1_label.Text = "S1 = 1 + 2 + 3 + ... + A = " + cal.Sum(A).ToString();
+                resultS2_label.Text = "S2 = 1 + 2 + 3 + ... + B = " + cal.Sum(B).ToString();
+                resultS3_label.Text = "S3 = A^1 + A^2 + A^3 + A^4 + ... + A^B = " + cal.ExponentSum(A, B).ToString();
             }
             catch
             {
